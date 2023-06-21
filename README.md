@@ -4,6 +4,8 @@
 
 
 
+check it out here: alenpokedex.netlify.app
+
 Pokédex is a web application built using React and Axios that lets you search for Pokémon by name, language, and type. You can also view detailed information about each Pokémon, such as its type, moves, and stats. By clicking on the pokemon yo'll get redirected to a youtube Video of the selected Pokemone in the language you have selected. The Pokedex is fully CSS and is open for modification.
 
 ## Getting Started
